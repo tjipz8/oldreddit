@@ -7,4 +7,8 @@
 // @grant              none
 // ==/UserScript==
 
-window.location.replace("https://old.reddit.com" + window.location.pathname);
+(function() {
+    'use strict';
+
+    window.location.replace("https://old.reddit.com" + window.location.pathname);
+})();

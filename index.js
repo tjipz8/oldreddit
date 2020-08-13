@@ -1,8 +1,6 @@
 // ==UserScript==
-// @name               Bring Back Old Reddit
-// @description        Always redirects to old-Reddit, avoiding Reddit's redesign.
-// @include            *://*.reddit.com/*
-// @exclude            *://www.reddit.com/poll/*
+// @name               Redirect to old reddit from amp reddit
+// @include            *://amp.reddit.com/*
 // @version            1.00
 // @run-at             document-start
 // @author             tjipz8
